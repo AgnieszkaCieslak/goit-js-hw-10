@@ -1,19 +1,19 @@
 {
   "name": "goit-js-hw-10",
-  "type":"module",
+  "type": "module",
   "version": "2.0.0",
   "description": "",
   "homepage": "https://agnieszkacieslak.github.io/goit-js-hw-10/",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /parcel-project-template/"
+    "build": "parcel build src/*.html --public-url /goit-js-hw-10/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/goitacademy/parcel-project-template.git"
+    "url": "git+https://github.com/AgnieszkaCieslak/goit-js-hw-10.git"
   },
   "keywords": [],
-  "author": "Agnieszka Cieślak<agnieszka.lewandowska.cieslak@gmail.com",
+  "author": "alc <agnieszka.lewandowska.cieslak@gmail.com>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/goitacademy/parcel-project-template/issues"
